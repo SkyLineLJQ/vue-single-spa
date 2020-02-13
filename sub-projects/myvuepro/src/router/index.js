@@ -21,8 +21,8 @@ const routes = [
 ]
 
 const router = new VueRouter({
-  base: '/vue/',
-
+  base: '/myvuepro',
+  mode: 'history',
   routes
 })
 

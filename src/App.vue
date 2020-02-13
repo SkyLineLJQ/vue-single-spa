@@ -9,17 +9,17 @@
             <span>Vue</span>
           </span>
                     <a-menu-item key="1-1">
-                        <a href="/vue-test#" @click="goToChildRoute">
+                        <a href="/vue-test" @click="goToChildRoute">
                             Home
                         </a>
                     </a-menu-item>
                     <a-menu-item key="1-2">
-                        <a href="/vue-test#/about" @click="goToChildRoute">
+                        <a href="/vue-test/about" @click="goToChildRoute">
                             About
                         </a>
                     </a-menu-item>
                     <a-menu-item key="1-3">
-                        <a href="/myvuepro#" @click="goToChildRoute">
+                        <a href="/myvuepro" @click="goToChildRoute">
                             myVueProNew
                         </a>
                     </a-menu-item>
